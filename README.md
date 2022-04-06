@@ -20,11 +20,6 @@ As you can experience with very little effort, a solution can be created for the
 FEEDBACK:
 For advance use, what would be great is to provide users with the ability to target certain attributes for searching with some sort of advance query. 
 
-How to Run:
-- npm start 
-- open http://localhost:3000 on your browser and start performing search. 
-
-
 
 
 ## Get started
